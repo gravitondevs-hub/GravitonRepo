@@ -1,0 +1,8 @@
+{
+  "name": "TruckFlow OS",
+  "description": "A comprehensive trucking business operating system featuring intelligent scheduling, route optimization, fleet management, and an AI dispatch assistant.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
